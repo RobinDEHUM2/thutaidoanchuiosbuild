@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/node_modules/react-native/Libraries/Text/RCTShadowText.m \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTComponent.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTRootView.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTBridge.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTDefines.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/ios/build/Build/Products/Release-iphonesimulator/include/yoga/Yoga.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/ios/build/Build/Products/Release-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/ios/build/Build/Products/Release-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTAccessibilityManager.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTConvert.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTLog.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTAssert.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTFont.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/ios/build/Build/Products/Release-iphonesimulator/include/React/UIView+React.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTUtils.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/node_modules/react-native/Libraries/Text/RCTShadowRawText.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/node_modules/react-native/Libraries/Text/RCTTextView.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTView.h

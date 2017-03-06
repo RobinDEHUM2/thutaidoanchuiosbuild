@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/node_modules/react-native/React/Modules/RCTDevMenu.mm \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/node_modules/react-native/React/Base/RCTKeyCommands.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/robin/Documents/reactNative/ThuTaiDoanChu/node_modules/react-native/React/Base/RCTWebSocketObserverProtocol.h
